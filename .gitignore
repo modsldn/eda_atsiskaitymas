@@ -9,6 +9,7 @@ __pycache__/
 .DS_Store
 ~$vertinimai.xlsx
 mantas_pieza/bendras_duomenu_rinkinys_su_tendencija.csv
+*.zip
 
 # Distribution / packaging
 .Python
