@@ -5,6 +5,10 @@ __pycache__/
 .idea
 # C extensions
 *.so
+*.csv
+.DS_Store
+~$vertinimai.xlsx
+mantas_pieza/bendras_duomenu_rinkinys_su_tendencija.csv
 
 # Distribution / packaging
 .Python
