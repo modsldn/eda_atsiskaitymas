@@ -9,6 +9,7 @@
 | Skirmantė |   0.25      |    0.25   |     1.2     |
 | Tautvydas |   0.25      |    0.25   |     1.8     |
 | Vilius    |   0.25      |    0.25   |     1.55    |
+| Darius    |   0         |    0      |     0       |
 
 # 2 užduotis 
 | Studentas | 4 (max 0.4) | 5 (max 0.4) | 6 (max 0.4) | 7 (max 0.4) | 8 (max 0.4) | 9 (max 0.4) | 10 (max 0.4) | 11 (max 0.4) | 12 (max 0.4) | 13 (max 0.4) | 14 (max 0.4) | 15 (max 0.4) | 16 (max 0.4) |
@@ -21,11 +22,13 @@
 | Skirmantė | 0           | 0         | 0           | 0           | 0           | 0           | 0           | 0           | 0           | 0           | 0           | 0           | 0           |
 | Tautvydas | 0        | 0         | 0           | 0           | 0           | 0           | 0           | 0           | 0           | 0           | 0           | 0           | 0           |
 | Vilius    | 0         | 0         | 0        | 0           | 0           | 0           | 0           | 0           | 0           | 0           | 0           | 0           | 0           |
+| Darius    | 0         | 0         | 0         | 0         | 0         | 0         | 0         | 0         | 0         | 0         | 0         | 0         | 0         |
 
 # 3 užduotis 
 Nedarė:
 1. Šarūnas
 2. Skirmantė
+3. Darius
 
 | Studentas | 1 (max 0.5) | 2 (max 2) | 3 (max 0.5) |
 |-----------|-------------|-----------|-------------|
@@ -37,3 +40,4 @@ Nedarė:
 | Skirmantė | 0           | 0         | 0           |
 | Tautvydas | 0.25        | 0         | 0           |
 | Vilius    | 0.5         | 1         | 0.25        |
+| Darius    | 0           | 0         | 0           |
